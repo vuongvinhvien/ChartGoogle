@@ -30,6 +30,7 @@ namespace ChartGoogle.Controllers
             }
             return Json(list, JsonRequestBehavior.AllowGet);
         }
+        
     }
 
 }
